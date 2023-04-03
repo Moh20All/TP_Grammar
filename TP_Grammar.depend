@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1679215856 source:c:\users\moh\desktop\moh\legendary year\s4\tl\tp_grammar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1679044492 source:c:\users\moh\desktop\moh\legendary year\s4\tl\tp_grammar\test g.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1679219069 source:c:\users\moh\desktop\moh\legendary year\s4\tl\allali mohamed baha eddine g1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+

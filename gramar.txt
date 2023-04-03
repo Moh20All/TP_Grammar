@@ -1,0 +1,14 @@
+a b
+S A
+S
+10
+S->ab
+bbSa->bbAa
+aSa->aaSa
+bSaa->bAaa
+bSa->bAaa
+aS->aaS
+S->aAB
+aSA->aSbA
+A->b
+aSa->aaSa
